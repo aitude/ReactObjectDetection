@@ -3,11 +3,11 @@
 
 ## Clone the Repository
 
-### 'git clone https://github.com/aitude/ReactObjectDetection.git'
+### `git clone https://github.com/aitude/ReactObjectDetection.git`
 
 ## Go to the Directory
 
-### 'cd ReactObjectDetection'
+### `cd ReactObjectDetection`
 
 ## Start the Development Server
 
